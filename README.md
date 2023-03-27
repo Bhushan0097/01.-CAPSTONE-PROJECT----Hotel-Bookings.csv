@@ -33,7 +33,8 @@ Some of the specific tasks involved in this step include:
 - Examining the relationship between variables
 - Identifying patterns and trends in the data
 - Conducting statistical tests to verify hypotheses
-- Visualization and Insights
+
+### Visualization and Insights ###
 
 The final step in the project is to create visualizations and derive insights from the data.\
 This involves creating graphs and charts to help understand the data and communicate the findings to others. 
