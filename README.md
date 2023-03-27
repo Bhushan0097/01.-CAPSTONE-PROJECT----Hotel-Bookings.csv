@@ -19,8 +19,7 @@ The first step in this project involves cleaning and preparing the data. This in
 - Handling missing data
 - Removing duplicates
 - Converting data types
-- Handling outliers
-- Handling categorical data
+
 
 ### Exploratory Data Analysis ###
 
