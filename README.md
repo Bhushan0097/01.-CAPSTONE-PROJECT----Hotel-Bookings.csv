@@ -10,7 +10,7 @@ This is a data analysis project that aims to explore and analyze hotel bookings 
   The project involves the following steps:\
     1. Data Cleaning and Preparation\
     2. Exploratory Data Analysis\
-    3. Visualization and Insights\
+    3. Visualization and Insights
 
 ### Data Cleaning and Preparation ###
 
