@@ -31,7 +31,7 @@ Some of the specific tasks involved in this step include:
 - Examining the distribution of numerical variables
 - Examining the relationship between variables
 - Identifying patterns and trends in the data
-- Conducting statistical tests to verify hypotheses
+- Identifying the factors that influence booking cancellations
 
 ### Visualization and Insights ###
 
