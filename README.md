@@ -50,6 +50,8 @@ This involves creating graphs and charts to help understand the data and communi
    - numpy
    -  matplotlib
    - seaborn
+   - geocoder
+   - plotly
 
 
 ## Acknowledgements
