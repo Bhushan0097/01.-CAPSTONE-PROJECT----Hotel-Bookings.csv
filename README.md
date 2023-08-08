@@ -52,6 +52,7 @@ This involves creating graphs and charts to help understand the data and communi
    - seaborn
    - geocoder
    - plotly
+   - prettytable
 
 
 ## Acknowledgements
